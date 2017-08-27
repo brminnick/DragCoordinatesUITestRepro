@@ -1,5 +1,5 @@
 # DragCoordinatesUITestRepro
-Reproduction of a bug in UITest v2.0.10
+Reproduction of a regression in Xamarin.UITest v2.0.10
 
 ## Error
 The following error appers when performing `DragCoordinates` on iOS:
@@ -16,6 +16,10 @@ Note: `DragCoordinates` works fine on Android.
 3. Build/Compile `DragCoordinatesUITestRepro.UITests`
 4. Run the `PullToRefresh_DragDropCoordinates` UITest on `DragCoordinatesUITestRepro.iOS` running iOS 10.3
 5. The tests fails `System.Exception : Error while performing DragCoordinates`
+
+## Work Around
+1. Install Xamarin.UITest v2.0.9
+2. Run the `PullToRefresh_DragDropCoordinates` UITest on `DragCoordinatesUITestRepro.iOS` running iOS 10.3
 
 ## Environment
 
