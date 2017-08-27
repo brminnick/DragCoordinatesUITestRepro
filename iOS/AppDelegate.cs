@@ -14,6 +14,10 @@ namespace DragCoordinatesUITestRepro.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
+#if DEBUG
+            Xamarin.Calabash.Start();
+#endif
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

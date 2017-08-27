@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragCoordinatesUITestRepro.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragCoordinatesUITestRepro.Droid", "Droid\DragCoordinatesUITestRepro.Droid.csproj", "{13BA25D1-DB92-4E3A-9669-577847119AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragCoordinatesUITestRepro.UITests", "DragCoordinatesUITestRepro.UITests\DragCoordinatesUITestRepro.UITests.csproj", "{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{13BA25D1-DB92-4E3A-9669-577847119AAA}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{13BA25D1-DB92-4E3A-9669-577847119AAA}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{13BA25D1-DB92-4E3A-9669-577847119AAA}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Release|iPhone.Build.0 = Release|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{CD6E6B5E-BEA5-43D4-B4DC-FC53B0FF6BE3}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
