@@ -40,5 +40,11 @@ namespace DragCoordinatesUITestRepro.UITests
 
 			app.Screenshot("Pull To Refresh Triggered");
         }
+
+        [Test]
+        public void DragDropCoordinates_Simple()
+        {
+            app.DragCoordinates(1, 2, 3, 4);
+        }
     }
 }

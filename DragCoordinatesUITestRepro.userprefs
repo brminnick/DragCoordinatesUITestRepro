@@ -1,29 +1,11 @@
-﻿<Properties StartupConfiguration="{99B306DE-F768-4FEB-942C-3CC3879EFC97}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+﻿<Properties StartupConfiguration="{99B306DE-F768-4FEB-942C-3CC3879EFC97}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragCoordinatesUITestRepro.UITests/Tests.cs">
     <Files>
       <File FileName="DragCoordinatesUITestRepro/App.cs" Line="30" Column="45" />
-      <File FileName="DragCoordinatesUITestRepro.UITests/Tests.cs" Line="33" Column="66" />
+      <File FileName="DragCoordinatesUITestRepro.UITests/Tests.cs" Line="38" Column="13" />
       <File FileName="iOS/AppDelegate.cs" Line="18" Column="13" />
+      <File FileName="DragCoordinatesUITestRepro.UITests/AppInitializer.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="DragCoordinatesUITestRepro" expanded="True">
-            <Node name="DragCoordinatesUITestRepro.UITests" expanded="True">
-              <Node name="Test Apps" expanded="True" />
-              <Node name="DragCoordinatesUITestRepro" expanded="True" selected="True">
-                <Node name="UITests" expanded="True">
-                  <Node name="Tests" expanded="True">
-                    <Node name="Tests(Android)" expanded="True" />
-                    <Node name="Tests(iOS)" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
